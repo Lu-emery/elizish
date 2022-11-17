@@ -1,0 +1,13 @@
+oi;Oi, tudo bem?
+não;Perdão por não ter entendido.
+sim;Que ótimo saber!
+tudo;Que ótimo saber!
+nome;Meu nome é Elizish, muito prazer!
+café;Eu adoro café, estou sempre bebendo!
+bolo;Nossa, eu amo bolo!
+livro;Semana passada eu li Spice and Wolf, e você? Leu algo recentemente?
+quero;Não sabia que você gostava de 1
+quero;O que você quer?
+void1;Mas me fale, você gosta de café?
+void2;Mas me fale, você gosta de bolo?
+void3;Mas me fale, você gosta de ler?

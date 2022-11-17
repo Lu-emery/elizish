@@ -1,0 +1,10 @@
+oi;1
+não;1
+sim;1
+tudo;1
+nome;2
+café;2
+bolo;2
+livro;2
+ler;2
+quero;3
